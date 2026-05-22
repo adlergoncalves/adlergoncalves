@@ -6,7 +6,7 @@ Full Stack Developer · BH, Brasil
 
 ## 💼 No que estou trabalhando
 
-- **Praxis Code** — Kit completo com 37 skills e 37 agents especializados para Claude Code. Pipeline completo com quality gates em cada fase: Discovery → Architect → Spec → Implement → Validate → Revalidate. Suporta novo software, legados e adoção de projetos existentes. Auto-import sob demanda, learnings evolutivos por domínio. Em breve público.
+- **Praxis Code** — Kit completo com mais de 70 skills e agents especializados para Claude Code. Pipeline completo com quality gates em cada fase: Discovery → Architect → Spec → Implement → Validate → Revalidate. Suporta novo software, legados e adoção de projetos existentes. Auto-import sob demanda, learnings evolutivos por domínio. Em breve público.
 
 ---
 
